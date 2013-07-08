@@ -3,8 +3,8 @@ EE 2.6 fieldtype.
 Create a new textfield based on another textfield to render it as a url_title.
 
 # Example
-You have a textfield name "Product Title". Create a URL Titlizr textfield and associate it with the "Product Title" textfield.
-When publishing/editing the entry, the URL Titlizr field will copy content from the "Product Title" field and render it as a url_title.
+You have a textfield named "Product Title". Create a URL Titlizr textfield and associate it with the "Product Title" textfield.
+When publishing/editing the entry, the URL Titlizr field will copy content from the "Product Title" field and render it as an url_title.
 
 **Product Title** : 
 _Brand new pair of shoes_
